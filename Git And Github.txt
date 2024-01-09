@@ -1,7 +1,19 @@
 Gihub
 Repositries -> project
-comit -> change , update
+comit -> Final change , update
 Html also work on README.md
+local  - folders on laptop
+remote - folders on github
+https clonning
+private repostories wont work
+git clone
+ls 
+ls -a for hidden file
+vs code side select git bash
+
+
+
+
 git clone https link
 vs code run
 folder dowload from github
